@@ -1,606 +1,72 @@
 [
-    [
-        {
-            "file_name": "B300D_m235_g_ccd16.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK013C_m231_g_ccd19.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B163D_m233_g_ccd32.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "2M019_m229_g_ccd23.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B331D_m257_g_ccd14.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B192D_m249_g_ccd30.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B284D_m248_g_ccd19.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B437_m233_g_ccd29.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B347D_m235_g_ccd1.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "C037_m249_g_ccd28.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "DAO2_m233_g_ccd18.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B299_m249_g_ccd35.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B499_m232_g_ccd33.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B504_m232_g_ccd22.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B129D_m248_g_ccd30.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B489_m232_g_ccd26.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B026D_m249_g_ccd19.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK051C_m233_g_ccd23.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B230D_m228_g_ccd14.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B317D_m235_g_ccd24.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK228C_m257_g_ccd14.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B308_m233_g_ccd3.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK013E_m235_g_ccd26.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B346_m228_g_ccd6.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B343D_m257_g_ccd3.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK205B_m228_g_ccd10.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "LAMOST-C23_m261_g_ccd14.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B062D_m248_g_ccd26.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK223C_m232_g_ccd24.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK018E_m257_g_ccd16.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK022B_m233_g_ccd14.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B321D_m257_g_ccd34.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK026C_m233_g_ccd26.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B274D_m235_g_ccd18.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B501_m235_g_ccd22.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B435_m249_g_ccd32.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "2M004_m231_g_ccd7.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "SK229B_m235_g_ccd16.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "C68_m342_g_ccd10.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B339D_m235_g_ccd12.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "2M021_m167_g_ccd2.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B025D_m249_g_ccd19.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "DAO53_m228_g_ccd7.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "DAO3_m233_g_ccd18.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "C040_m248_g_ccd10.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B332D_m257_g_ccd14.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B166D_m249_g_ccd25.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B320_m265_g_ccd22.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B042D_m248_g_ccd27.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        },
-        {
-            "file_name": "B143D_m233_g_ccd7.fits",
-            "metadata": {
-                "object_type": "Galaxies"
-            }
-        }
-    ],
-    [
-        {
-            "file_name": "B156_m248_g_ccd25.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B401_m257_g_ccd15.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B303_m233_g_ccd3.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "M003_m248_g_ccd15.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B016_m249_g_ccd3.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "PAndAS-02_m263_g_ccd15.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B196D_m228_g_ccd9.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "PAndAS-57_m240_g_ccd25.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B095_m248_g_ccd17.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B073_m248_g_ccd27.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B111_m248_g_ccd26.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B207_m248_g_ccd14.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "SK016A_m249_g_ccd30.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B010D_m249_g_ccd12.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B045_m265_g_ccd28.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "BH06_m249_g_ccd30.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B123_m248_g_ccd17.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B331_m265_g_ccd21.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B032D_m249_g_ccd10.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B301_m233_g_ccd22.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "FJJ-VIII_m398_g_ccd30.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B403_m257_g_ccd13.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B112_m248_g_ccd17.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B042_m249_g_ccd10.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B321_m233_g_ccd1.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B536_m248_g_ccd15.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B072D_m248_g_ccd8.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B144_m248_g_ccd16.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B088D_m248_g_ccd25.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B064_m248_g_ccd18.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B151_m248_g_ccd7.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B085_m228_g_ccd6.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B283_m248_g_ccd13.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B328_m265_g_ccd21.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B051_m249_g_ccd1.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B038_m249_g_ccd10.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B126_m248_g_ccd17.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B281_m248_g_ccd4.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "PHF7-1_m249_g_ccd21.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "MCGC3_m253_g_ccd4.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "H12_m184_g_ccd34.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B064D_m248_g_ccd17.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B078_m248_g_ccd18.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "PHF6-1_m248_g_ccd16.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B046_m265_g_ccd19.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B158_m248_g_ccd16.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B179_m248_g_ccd15.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "BH17_m248_g_ccd25.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B080_m248_g_ccd18.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        },
-        {
-            "file_name": "B017D_m249_g_ccd20.fits",
-            "metadata": {
-                "object_type": "GCs"
-            }
-        }
-    ]
+    {
+        "file_name": "B300D_m235_g_ccd16.fits",
+        "metadata": {
+            "object_type": "Galaxies"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAAD6UlEQVR4nK1XzY4cRQz+7Kru3ckmm2zCKiIoVzgj8QBwSXLjjgQHlBu5ceBBAhIPgYQ48gS5ICQeAA4cIuVAQhRtfma6bGRX9/R/T6+EtTvTVWN//imX7SY4kf1V5bZQQH0nfx4mbuUJAcz2vV68AXAQRokykMk73OUsIOICP+F8ExvJtQiACXOI5Q0RefzRtTIwGa0Ujpz1U4g3AHzz5IVAVZswKOVH/+opbTaiczmIbz3bJpVa2HYzH40kW0BqXDg6FZF7t49i9mDOhckfyBCKY3kktzaNvPENebOy3joTsSPIFTmkf2wC24cqFCrYoRJ7nLO0DVuN1QCQR0UhdeQy4gzprn1s4LSOt4vVEEPDR4D1TuyBd49uoHd6p43pnsGzaH0al/tD6WTGtA3TpN2FkAyDT+WMMfsrx/09tbSeYpzTrD0L7ByX5cbEywqGNM6vuFrVDDCPlVwOklcoWQ/w4NfLW8H4H0nuL2UNrbCAl+BnYsM9nhmmfPGmf4s9xnH1bnXrCgAa1g3ifYWfI+4uvur5QEQcSus8S8fKPReG1hNdv3MAgbOurlQXUUmX2yTFrmrqNS8rremfIObXfI2GSZxmO0R6SUPe9KM1675pjUm1PgKcxQAGnB7ICQe6e8ynZAnUgA7OUXOrnzS8BkBuR61FKy7jIFnQ+Csy11YX80Drvj2sx07FlMoeHu8ZJm33Rjra7eJxTjh7/DLHcvV41bWG7HsHlLmtX6YsxkHuNP29yc2DWLGRZIsGhwSkun6oJ8gaCwCiEOybDS4kGwyx0pXo2cscbMxG8AsYU54UxwWqoc4P0QPIkdlMiHlMDd5lLRATw05rmsPEbIANmgA2VZXs+sadT0tW4haGJX9i+y9iKDbXAZweF8Gd8WDkcc2lhspbYvOcQnFy8y6AH89OCrsVCI7QP4XpBGM/QS6u3v0MwKcfnpXBk9GH+HzH9pP7NEAIMcby+L1PvrPl53c20TCtkng1cZTZmmlBvBq5LE9ufvy1L7/442VxkVSS7lQtnPlY6vxu6k73fGMR45Wja2fvf+DLP19sJVchtopssuSDk686byH7ZI//Uijj8fN39K0tv//96ZvKalRW2/refWmpL0wdg5Sqqtq+fvbkB1v+9nybkr0AkSQRN0aMvVfZe9Fkm/NT9eblXz8DePT3q60w6PxhyDNv/TEZ/9oFKFQTLnavAfxysXOPy62Yo5NVbkDEhBCZYohPgfO3EBVStkM4LOwWKEiScuVtqUoWc4FUHfHlomIuIJF4rFCJGe41xcpJZlk2xd8bkXJzQ/YcJK34ISOi54UocxN0haah2nrF+2G8pf8AlP2U+W3ZffkAAAAASUVORK5CYII="
+    },
+    {
+        "file_name": "M003_m248_g_ccd15.fits",
+        "metadata": {
+            "object_type": "GCs"
+        },
+        "image_data": "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"
+    },
+    {
+        "file_name": "B163D_m233_g_ccd32.fits",
+        "metadata": {
+            "object_type": "Galaxies"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAACwklEQVR4nJVWaa7cIAz25+Slo/5s9U7QA/YOvXUXhcoYzGIgjDXKsHhfIdoDbOJFQMLHgAzjNZaI3Qa7WuHhnoiORwzMdH3QmTxvjr8pERzH/sBZDiLGm6FxpqD55OjtcXu6xvPtMk2wYD+6w4Kk932XSByXIf7G8q42DYozMSHhCSdzPARm+i44mANxXAeQ0Rgurre518kJBLH180RjANxiILdcA8woFhmUsLY175McaPWmOhftIEW2d9fKe5gLbfRJ99NqozkDX31jzIUCM60q2ChIdc+8meCNNrE0IQVBcrc42LV1breNK9Xnoa6z4AqIjSjIf7yPBwGSt0noMDBsyKjZCp3sU9lm+fEsnqcP30qGznwRXBVu5KD84vc2blkQt1yiQNNcNqzVH6UFpacfXBoQXAgCojcgTpGyuUMIeta4M2lBTXaKOoIVSOsNfH37PGPDA6pwZHcLD64dGMpES2bg+BujEOkrvMIH3gTtGeGOneO4/4kTgVvdozHguxhMTfDIrFf9ALplG+5R264iForqepiSiWURxPuVhJYJme/dcRagIezoMwU66y2XUjQrv3kN2hSm/J/GRpofeQwVxFKRr1pdEjhlwVqhYEildTUrKAPgipWk0GJSbHYbKKcBvZsnYxAtfrXaGs3Dywi2OuoeVSoUr6sfnmhY5t10SH/9WEgdUnYTsHqi7HgU3daI5qPNgyREF4C6fVP2DuHYYjx4kgFTBH73CbTxWimbdtJjqf5kjUfkJUjTo9h0dG5kkKE2lNKbsPXAwPWTx68YEB9naap21zUe4OOPNERrWBUXvqAVx7FlarNOCNa5+f5dTrs39fG9ex4M4eXeDjkX+Hx98Sak7WGTwO5MKTOumVd7YWwqk/n0D1Ft9vHbS3RYLeNJmS5SOvb95MVqcHfPeG+kTr1arNmVXaq7jZYOov82v5ySIB2O0QAAAABJRU5ErkJggg=="
+    },
+    {
+        "file_name": "B401_m257_g_ccd15.fits",
+        "metadata": {
+            "object_type": "GCs"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAABE0lEQVR4nO2VQWrEMAxF9RSnixYGhtm0u0KP0iP0mj1Mz9JdobFK7E2YmcjBCXjK5C0CQfb3l2XZIjsTmP7sbAMb6dwpVIVuAVobkPYOatCi83+VF7cpR7kIPpScUJ5uVueB9HkI7hLqJYFA//oWcNKIEmZjyXh8RHFzwDMIdPo7uHuAlHcx+mN8aN9NtDaws1VlcGK6YJwGZc2B4BBP512PSHfpYA6V7nx5ExkWtwqEIbotveZiRdrzslbgc+X8YJ1ZvoHrIPZi1FYJywfJ0LoaWX6bQBhP+7V4EU1zsfIzPCsQVJOJStR6zckuaatrAjw/BWzMos6EyvsxkBTqBIjy8fX9M0iUaPkdNya7P/pyi/EHD00ySC5CJuMAAAAASUVORK5CYII="
+    },
+    {
+        "file_name": "SK013C_m231_g_ccd19.fits",
+        "metadata": {
+            "object_type": "Galaxies"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAAAeElEQVR4nO3UTQqAIBAF4PdGoTYR0WG6/8H6WUZUpk2E4nxb9THOiICphPOBRYkI6Edkhky8QlJPCkJUgHHb5Pa8e/NEduyWQdVoNlOrmxSlikmbI+KPD/SKIIj0VAWsmKFFdYLBQxdFG5AjppUs5wD3YTXGGFOUDSLrA8LjNjoaAAAAAElFTkSuQmCC"
+    },
+    {
+        "file_name": "B331D_m257_g_ccd14.fits",
+        "metadata": {
+            "object_type": "Galaxies"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAABPUlEQVR4nO2WTU7DMBCF35u4BBBFRUgskJAQZ+BKHI0tV2OJKqgH2YlJKKl/agQo9Fs4cex582JbmQAekhTTrqy9PjHiekQe8nHHZtneAA/nTRc8KEibEKCbTPKNBliG3qBg10kf9K/QHF1Ye3faO8iEQ0vQHD+fvW7UP9MSAQQFWS+0i6TNEzDdRZ2CAhv08bkGMOxCHxUCSwV09OKaHf3ZgYaWyoQEv6yBg/kOdMqBBpEamNy8ZIbH0pyy1X+qFSBmBjFDeFWtgEKEZQdpG96z0gpZt6msm0DfatUaIIHEo0kZ1bgpXYnnZ9NMetAsAQK8XI3L7AQmMubK1YsdFZsdWXZDiKiNf+UlMuY1EvGoPgdMGEhXWUmMH/ivsPpocI+RMtxPeUCwB4vbags48B0LRMwZ/raBP8APr8E7GhY7iYQOeBQAAAAASUVORK5CYII="
+    },
+    {
+        "file_name": "2M019_m229_g_ccd23.fits",
+        "metadata": {
+            "object_type": "Galaxies"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAAAdElEQVR4nO3WwQ2AMAgFUD41Nd7cwP3HcRiPinEAAcPJ5r9z+YHSQ0USgMwpIiIiesC/BsDE3BNTUK8WJGiwiL41v0kNAs4D/pjw6wGIXZKxvCYkvyeQP4MW+5/3Xgtoa/Qaxt5AeT4tJxB9hl59VSjW06huqb0KPjUaGF8AAAAASUVORK5CYII="
+    },
+    {
+        "file_name": "B156_m248_g_ccd25.fits",
+        "metadata": {
+            "object_type": "GCs"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAAE6klEQVR4nFVXa470RAy0nczy0HcDfvAHcQAOwLEREhKn4C5Iy6SN7Kpy945mZ5NOP+yyq+yYW3/c3MwdX3eLuP5ay6Nu3APPzC3qMRb0r0fiLntK4mvmmetPbJ1pNVhX/Zc1sD8x+9Wj/j0f10rPWtPDfHbaEJl1frp/YBfz3sYsA9vJ/Oxl9cRhQ7rXXBcG2njuf1/rxIVINVg13CvKAszPPmQMG2PLSMvygo5mTdWzst646+kXbnwtnqMzaSLOrjs3jzqrXK0jYC6RP5DsAALiukw6gqj43nZ89Yq22Vpj2eTKNrH878QwINLBIL626jyCjlMVgcZKBy6knxHPiYTgaAxkgSZozuSBd+A36sfNRGOOZ0aYVyg6yfzYa4eaQ5UHNHJ7P2a08zMqFNtkwVouHKu1vzDEZWh5BYdUAJJMaZqPrGm7kcFJPAPsdbvkrwDg6Z0fTRaC0gM4bU91JffhZ0fh2EqT6BIHTaFg9hILPFtre62fitqg/OVAfpT8isJhGZ7wIDoOsdJT+WL+TUiAArjs8Dcp2wGAEx3RUxf3RuCCuDfmHexw9x/CLdcEUtOP/OuBBOy0SesZovrsc+Y8sJHn9JxDDA6GBkV26+4prADqLv9pnmd5TCWqT4gonJ86QXRuqdF6aPR2oVPZobedqF+g7Hytuwdxa1trt977O5yUpZg1rzR8WTbHeN4pRYNd41U7fPKAe4iCdYsmUHpj7XBM2anfPrUIFbQ7s7O0YbDXz4ipWREagntawAA2k6OLXZYf7V47+PpJNag/C8TtLC1aMjm8rMtJHGUPNbyePHbFy96PCm6Jrvje5aXuA+aIQu1oMoPM/Pr1txdVs7yE78yVPKqzgzU713alabDLLi3spgDXqK1eBkahwLGJ2GOXf+S7ECrPOV9Jy1puw70zzaEoxUa/T0Hg1EIW4XO7meb8A0qji2bWEO5yoWJACcY+gJcgU1drydpKq84Cky2icE63183K1HkgmQY9G6jdQVERC6+qS61EZs+/8KRBVmUYoJ5ubxIZ02BXO1KhB6umvuUpD0qBrtHXl5bL7Yr7+vzP/Rm+WrFwC2o+ItM4fjYlth77cdl64B6LjW/BnCajR2L9cZ7eSRevO+IaClYY7WgBUQ0TnRcgUfLUv+WWD4rb1r57AqcUFvlVGYZjwKufKCqo8i4yUCmUqJOu/IJNsEjBQzsK0WDJpNgwKAg3SYtvUYOyXzf3nEfOUtFwyPUmFB2c6cHOvL/PBghDNQ0Y5FtKA34QCDYIoGdMPFpJKobfvu9U61RCd4mmmuiQU+q/AzmpgpJm1y8fqsFMl04KCg56tB2vvBmF3bg8/zy0U/QEM6fUbG1naU8FG+Pr8xnh4ynysscRSbXsWYVlN2El4EoVAoTGbBdIxQvvRfPKg9Mp3zK8g4dieHaJjAd/gpkaEoO0NZCXuMwbQMccr2VozjEYxLsVajq14UStn3bJn87oaT376j4dU4VRT8+3ANGsWqbpNNhuWDG7Cqu6geMNz5XAamt3y6bikawx3kK2271NamLNyOxXh/q2YNq8yqrs8xovZ26GBkJrlQw15ekcDrXTX3uSiWu+xVPpP1+SRSAcAJKx1g9V7ZamqaKT9+R8Tyw9YEOG1OCGVIHhP+m8OzqxpGojvtWrWHSJkp78zc7okMyjk0U2/A+XWNeXmroMQQAAAABJRU5ErkJggg=="
+    },
+    {
+        "file_name": "B016_m249_g_ccd3.fits",
+        "metadata": {
+            "object_type": "GCs"
+        },
+        "image_data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAABgUlEQVR4nM1XS1LDMAzVk52GKbCAGTZ0+CwYTsFVOFfvwsUYNk4naTp14o9kJ53yFm1t+elJiq24RHlAsNcvXsUdwhloGFg3ZlxoLa1c0bW0UMyIY4kDVHhAXhkJK9M/AK7mFop10rHrgdyQt+MDZUqim/KmQ7zCm63BwG/CqVj2EAtnUio+ETq1ywIZSaimNAolqr4BVINFJUT/lPoPcddnbDy4EOmp7Qpm57yzgFj5mFN8APahZaG09uMtvU03725/KyRgds9mKJTfPI9g8+Occ4nwzx56fiKDzYv7vot36nPaiJTgaAbB3v/9zkyjrKcTbU2nbmSD+MpaHRjT9wdM23DBtuioOzkYY7rZf9lsDF1uCJgn57ac7MZhQeYZo/3czSPIBhQYuTFyB80CxWxeJBf8ILGNR0aobU2pQ0IVJLrOa6Y0EGQYBQli4e0Q2cXQ+5WzRMqsuhig0qaFdEWAnqIWAREeUXR8eYUotEA4qr/DzZnD9+K/HvqtLC+M4ADQ7R4wDoMtpgAAAABJRU5ErkJggg=="
+    },
+    {
+        "file_name": "B303_m233_g_ccd3.fits",
+        "metadata": {
+            "object_type": "GCs"
+        },
+        "image_data": "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"
+    }
 ]

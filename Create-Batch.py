@@ -1,6 +1,10 @@
 import json
 import os
 from astropy.io import fits 
+import random
+import numpy as np 
+from image_utils import apply_arcsinh_scaling, encode_image_to_base64
+
 
 Galaxy_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/galaxies'
 GC_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/fitsgcs'
@@ -19,17 +23,22 @@ def load_images(path, noimages, filetype):
                 image = fits.open(file)
             except:
                 continue
+
+
             data = image[0].data
+            image = encode_image_to_base64(data)
 
             images.append({
                 "file_name": file.name,
                 "metadata": {
                     "object_type" : filetype
-                }
+                },
+                "image_data": image
             })
             nofiles += 1 
     return (images)
-data.append(load_images(Galaxy_Dir, 50, "Galaxies"))
-data.append(load_images(GC_Dir, 50, "GCs"))
+data.extend(load_images(Galaxy_Dir, 5, "Galaxies"))
+data.extend(load_images(GC_Dir, 5, "GCs"))
+random.shuffle(data)
 with open(output, "w") as json_file:
     json.dump(data, json_file, indent=4)

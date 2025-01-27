@@ -15,6 +15,6 @@ with open("OpenAI-venv/data.json", "r") as data:
         response = client.chat.completions.create(model="gpt-4o",
         messages =[
             {"role": "system", "content": "You are a classifier for astronomical images from the PandAS astronomical survey. Do not use metadata or any external information to classify the images."},
-            {"role": "user", "content": f"You will be shown batches of image data of either Globular Clusters (GCs) or Galaxies. Return an array with an entry for each image in the batch. 1 for a GC and 0 for a Galaxy. do not give any further information: {json.dumps(batch)}"}
+            {"role": "user", "content": f"You will be shown batches of image data of either Globular Clusters (GCs) or Galaxies. A batch can contain either one of either, or two of the same. Return an array with an entry for each image in the batch. Return 1 for GC and 0 For galaxy. do not give any further information: {json.dumps(batch)}"}
         ])
         print(response.choices[0].message.content)

@@ -29,9 +29,6 @@ def encode_image_to_base64(data, scale_factor=0.01):
     # Save the image to a BytesIO object
     buffered = BytesIO()
     image.save(buffered, format="PNG")
-    
-    # Display the image
-    image.show()
 
     # Encode the BytesIO object as Base64
     base64_image = base64.b64encode(buffered.getvalue()).decode("utf-8")

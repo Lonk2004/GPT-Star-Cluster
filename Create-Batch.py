@@ -6,8 +6,8 @@ import numpy as np
 from image_utils import encode_image_to_base64
 
 
-Galaxy_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/galaxies'
-GC_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/fitsgcs'
+Galaxy_Dir = 'OpenAI-venv/galaxyimages'
+GC_Dir = 'OpenAI-venv/gcimages'
 output = 'OpenAI-venv/data.json'
 data = []
 
@@ -37,8 +37,8 @@ def load_images(path, noimages, filetype):
             })
             nofiles += 1 
     return (images)
-data.extend(load_images(Galaxy_Dir, 5, "Galaxies"))
-data.extend(load_images(GC_Dir, 5, "GCs"))
+data.extend(load_images(Galaxy_Dir, 5, "GCs"))
+data.extend(load_images(GC_Dir, 5, "Galxies"))
 random.shuffle(data)
 with open(output, "w") as json_file:
     json.dump(data, json_file, indent=4)

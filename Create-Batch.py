@@ -3,7 +3,7 @@ import os
 from astropy.io import fits 
 import random
 import numpy as np 
-from image_utils import apply_arcsinh_scaling, encode_image_to_base64
+from image_utils import encode_image_to_base64
 
 
 Galaxy_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/galaxies'

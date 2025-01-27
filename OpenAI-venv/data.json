@@ -1,0 +1,606 @@
+[
+    [
+        {
+            "file_name": "B300D_m235_g_ccd16.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK013C_m231_g_ccd19.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B163D_m233_g_ccd32.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "2M019_m229_g_ccd23.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B331D_m257_g_ccd14.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B192D_m249_g_ccd30.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B284D_m248_g_ccd19.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B437_m233_g_ccd29.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B347D_m235_g_ccd1.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "C037_m249_g_ccd28.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "DAO2_m233_g_ccd18.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B299_m249_g_ccd35.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B499_m232_g_ccd33.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B504_m232_g_ccd22.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B129D_m248_g_ccd30.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B489_m232_g_ccd26.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B026D_m249_g_ccd19.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK051C_m233_g_ccd23.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B230D_m228_g_ccd14.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B317D_m235_g_ccd24.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK228C_m257_g_ccd14.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B308_m233_g_ccd3.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK013E_m235_g_ccd26.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B346_m228_g_ccd6.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B343D_m257_g_ccd3.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK205B_m228_g_ccd10.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "LAMOST-C23_m261_g_ccd14.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B062D_m248_g_ccd26.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK223C_m232_g_ccd24.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK018E_m257_g_ccd16.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK022B_m233_g_ccd14.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B321D_m257_g_ccd34.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK026C_m233_g_ccd26.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B274D_m235_g_ccd18.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B501_m235_g_ccd22.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B435_m249_g_ccd32.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "2M004_m231_g_ccd7.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "SK229B_m235_g_ccd16.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "C68_m342_g_ccd10.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B339D_m235_g_ccd12.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "2M021_m167_g_ccd2.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B025D_m249_g_ccd19.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "DAO53_m228_g_ccd7.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "DAO3_m233_g_ccd18.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "C040_m248_g_ccd10.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B332D_m257_g_ccd14.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B166D_m249_g_ccd25.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B320_m265_g_ccd22.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B042D_m248_g_ccd27.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        },
+        {
+            "file_name": "B143D_m233_g_ccd7.fits",
+            "metadata": {
+                "object_type": "Galaxies"
+            }
+        }
+    ],
+    [
+        {
+            "file_name": "B156_m248_g_ccd25.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B401_m257_g_ccd15.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B303_m233_g_ccd3.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "M003_m248_g_ccd15.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B016_m249_g_ccd3.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "PAndAS-02_m263_g_ccd15.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B196D_m228_g_ccd9.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "PAndAS-57_m240_g_ccd25.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B095_m248_g_ccd17.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B073_m248_g_ccd27.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B111_m248_g_ccd26.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B207_m248_g_ccd14.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "SK016A_m249_g_ccd30.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B010D_m249_g_ccd12.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B045_m265_g_ccd28.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "BH06_m249_g_ccd30.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B123_m248_g_ccd17.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B331_m265_g_ccd21.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B032D_m249_g_ccd10.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B301_m233_g_ccd22.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "FJJ-VIII_m398_g_ccd30.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B403_m257_g_ccd13.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B112_m248_g_ccd17.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B042_m249_g_ccd10.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B321_m233_g_ccd1.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B536_m248_g_ccd15.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B072D_m248_g_ccd8.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B144_m248_g_ccd16.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B088D_m248_g_ccd25.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B064_m248_g_ccd18.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B151_m248_g_ccd7.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B085_m228_g_ccd6.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B283_m248_g_ccd13.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B328_m265_g_ccd21.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B051_m249_g_ccd1.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B038_m249_g_ccd10.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B126_m248_g_ccd17.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B281_m248_g_ccd4.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "PHF7-1_m249_g_ccd21.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "MCGC3_m253_g_ccd4.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "H12_m184_g_ccd34.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B064D_m248_g_ccd17.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B078_m248_g_ccd18.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "PHF6-1_m248_g_ccd16.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B046_m265_g_ccd19.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B158_m248_g_ccd16.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B179_m248_g_ccd15.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "BH17_m248_g_ccd25.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B080_m248_g_ccd18.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        },
+        {
+            "file_name": "B017D_m249_g_ccd20.fits",
+            "metadata": {
+                "object_type": "GCs"
+            }
+        }
+    ]
+]

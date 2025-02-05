@@ -37,8 +37,8 @@ def load_images(path, noimages, filetype):
             })
             nofiles += 1 
     return (images)
-data.extend(load_images(Galaxy_Dir, 5, "N/A"))
-data.extend(load_images(GC_Dir, 5, "N/A"))
+data.extend(load_images(Galaxy_Dir, 5, "Galaxy"))
+data.extend(load_images(GC_Dir, 5, "GC"))
 random.shuffle(data)
 with open(output, "w") as json_file:
     json.dump(data, json_file, indent=4)

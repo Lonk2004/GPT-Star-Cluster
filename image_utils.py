@@ -2,10 +2,10 @@ import numpy as np
 from PIL import Image
 import base64
 from io import BytesIO
-def apply_arcsinh_scaling(data, scale_factor=0.01):
+import matplotlib.pyplot as plt
+def apply_arcsinh_scaling(data, scale_factor=0.90):
     # Normalize the data to [0, 1]
     data = data - np.min(data)  # Shift data to start from 0
-    data = data / np.max(data)  # Normalize to [0, 1]
 
     # Apply arcsinh scaling
     scaled_data = np.arcsinh(scale_factor * data)
@@ -29,6 +29,8 @@ def encode_image_to_base64(data, scale_factor=0.01):
     # Save the image to a BytesIO object
     buffered = BytesIO()
     image.save(buffered, format="PNG")
+    plt.imshow(image, cmap='grey')
+    plt.show()
 
     # Encode the BytesIO object as Base64
     base64_image = base64.b64encode(buffered.getvalue()).decode("utf-8")

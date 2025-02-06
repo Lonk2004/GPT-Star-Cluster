@@ -8,6 +8,8 @@ from image_utils import encode_image_to_base64
 
 Galaxy_Dir = 'OpenAI-venv/galaxyimages'
 GC_Dir = 'OpenAI-venv/gcimages'
+Large_Galaxy_Dir = 'OpenAI-venv/LargeGalaxyImages'
+Large_GC_Dir = 'OpenAI-venv/largegcimages'
 output = 'OpenAI-venv/data.json'
 data = []
 
@@ -37,8 +39,8 @@ def load_images(path, noimages, filetype):
             })
             nofiles += 1 
     return (images)
-data.extend(load_images(Galaxy_Dir, 5, "Galaxy"))
-data.extend(load_images(GC_Dir, 5, "GC"))
+data.extend(load_images(Large_Galaxy_Dir, 50, ""))
+data.extend(load_images(Large_GC_Dir, 50, ""))
 random.shuffle(data)
 with open(output, "w") as json_file:
     json.dump(data, json_file, indent=4)

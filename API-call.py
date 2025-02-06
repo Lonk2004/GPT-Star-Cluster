@@ -20,10 +20,3 @@ with open("OpenAI-venv/data.json", "r") as data:
         messages = messages)
         result = response.choices[0].message.content
         print(result)
-        #Noticed the model was using metadata anyway. I asked it to stop.
-        messages.append({"role": "assistant", "content": result})  # Store AI's response
-        messages.append({"role": "user", "content": "You used metadata in your classification despite being explicitly told not to. Justify your reasoning and provide a corrected classification using only image content, without any metadata influence."})
-
-        # Resend the updated conversation
-        new_response = client.chat.completions.create(model="gpt-4o", messages=messages)
-        print("Follow-Up Response:", new_response.choices[0].message.content)

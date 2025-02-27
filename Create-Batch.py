@@ -28,7 +28,18 @@ def load_images(path, noimages, filetype):
 
 
             data = image[0].data
-            image = encode_image_to_base64(data)
+            height, width = data.shape
+            data = np.expand_dims(data, axis=-1)
+            crop_size = 210
+            start_y = (height - crop_size) // 2
+            start_x = (width - crop_size) // 2
+
+            # Crop the central 210x210 region. Using ... allows for any number of channels.
+            cropped_data = data[start_y:start_y+crop_size, start_x:start_x+crop_size, ...]
+            cropped_data = np.squeeze(cropped_data, axis=-1)
+
+            # Encode the cropped image to base64
+            image = encode_image_to_base64(cropped_data)
 
             images.append({
                 "file_name": file.name,

@@ -21,11 +21,9 @@ def encode_image_to_base64(data, scale_factor=0.01):
     """
     # Apply arcsinh scaling
     scaled_data = apply_arcsinh_scaling(data, scale_factor)
-
     # Convert scaled data to an image
     image = Image.fromarray(scaled_data)
     image = image.resize((128,128), Image.Resampling.LANCZOS)
-
     # Save the image to a BytesIO object
     buffered = BytesIO()
     image.save(buffered, format="PNG")

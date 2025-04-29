@@ -6,8 +6,10 @@ import numpy as np
 from image_utils import encode_image_to_base64
 
 
-Galaxy_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/galaxies'
-GC_Dir = '/Users/jackskinner/Documents/3rd Year/Computer Science/astrodataset/astrodataset/outputdata/outputfits/fitsgcs'
+Galaxy_Dir = 'OpenAI-venv/galaxyimages'
+GC_Dir = 'OpenAI-venv/gcimages'
+Large_Galaxy_Dir = 'OpenAI-venv/LargeGalaxyImages'
+Large_GC_Dir = 'OpenAI-venv/largegcimages'
 output = 'OpenAI-venv/data.json'
 data = []
 
@@ -26,7 +28,18 @@ def load_images(path, noimages, filetype):
 
 
             data = image[0].data
-            image = encode_image_to_base64(data)
+            height, width = data.shape
+            data = np.expand_dims(data, axis=-1)
+            crop_size = 210
+            start_y = (height - crop_size) // 2
+            start_x = (width - crop_size) // 2
+
+            # Crop the central 210x210 region. Using ... allows for any number of channels.
+            cropped_data = data[start_y:start_y+crop_size, start_x:start_x+crop_size, ...]
+            cropped_data = np.squeeze(cropped_data, axis=-1)
+
+            # Encode the cropped image to base64
+            image = encode_image_to_base64(cropped_data)
 
             images.append({
                 "file_name": file.name,
@@ -37,8 +50,8 @@ def load_images(path, noimages, filetype):
             })
             nofiles += 1 
     return (images)
-data.extend(load_images(Galaxy_Dir, 5, "Galaxies"))
-data.extend(load_images(GC_Dir, 5, "GCs"))
+data.extend(load_images(Large_Galaxy_Dir, 50, ""))
+data.extend(load_images(Large_GC_Dir, 50, ""))
 random.shuffle(data)
 with open(output, "w") as json_file:
     json.dump(data, json_file, indent=4)
